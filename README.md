@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zana</h1>
 
 <p align="center">
-  <b>Senior Full-Stack Engineer · Building AI-integrated products end-to-end</b>
+  <b>Frontend Engineer · Building AI-integrated products end-to-end</b>
 </p>
 
 <p align="center">
